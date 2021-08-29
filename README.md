@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- ### You are the ![Visitor Count](https://profile-counter.glitch.me/{deekshith-hari}/count.svg) visitor               
+###TOTAL VISITORS
+
+![Visitor Count](https://profile-counter.glitch.me/{deekshith-hari}/count.svg)         
